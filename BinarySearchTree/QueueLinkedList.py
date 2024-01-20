@@ -1,5 +1,4 @@
-#   Created by Elshad Karimov on 30/05/2020.
-#   Copyright © 2020 AppMillers. All rights reserved.
+
 
 
 class Node:
