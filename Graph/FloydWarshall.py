@@ -1,7 +1,4 @@
-#   Created by Elshad Karimov 
-#   Copyright © 2021 AppMillers. All rights reserved.
 
-# Floyd Warshall Algorithm in python
 
 INF = 9999
 # Printing the solution
